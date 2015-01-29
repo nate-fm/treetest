@@ -1,0 +1,3 @@
+[submodule "core_sdk"]
+	path = core_sdk
+	url = git@github.com:Footmarks/core-sdk-ios.git
